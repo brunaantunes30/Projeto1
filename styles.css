@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+#cabecalho{
+    height: 55px;
+    background-color: rgb(2, 195, 54);
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+#menu{
+    height: 200px;
+    width: 300px;
+    float: left;
+    margin-left: 37px;
+    margin-top: 10px;
+}
+#conteudo{
+    height: 330px;
+    width: 800px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 5px;
+    text-align: center;
+}
+#lado{
+    height: 200px;
+    width: 300px;
+    float: right;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-block-end: 5px;
+}
+h2{
+    background-color: rgb(2, 195, 54);
+}
+#rodape{
+    height: 500x;
+    background-color: rgb(2, 195, 54);
+    clear: both;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}

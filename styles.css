@@ -15,14 +15,14 @@ body{
 }
 #menu{
     height: 200px;
-    width: 300px;
+    width: 30%;
     float: left;
     margin-left: 37px;
     margin-top: 10px;
 }
 #conteudo{
     height: 330px;
-    width: 800px;
+    width: 40%;
     float: left;
     margin-top: 10px;
     margin-left: 5px;
@@ -30,7 +30,7 @@ body{
 }
 #lado{
     height: 200px;
-    width: 300px;
+    width: 30%;
     float: right;
     margin-left: 5px;
     margin-top: 10px;

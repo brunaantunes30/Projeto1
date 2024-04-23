@@ -20,6 +20,33 @@ body{
     margin-left: 37px;
     margin-top: 10px;
 }
+
+#menu2{
+    height: 200px;
+    width: 38%;
+    float: left;
+}
+#menu3{
+        height: 200px;
+        width: 38%;
+        float: left;
+
+}
+#menu4{
+    height: 200px;
+    width: 38%;
+    float: left;
+}
+#menu5{
+    height: 200px;
+    width: 38%;
+    float: left;
+}
+#menu6{
+    height: 200px;
+    width: 38%;
+    float: left;
+}
 #conteudo{
     height: 25%;
     width: 40%;
@@ -28,9 +55,41 @@ body{
     margin-left: 5px;
     text-align: center;
 }
-#lado{
+#lado2{
     height: 200px;
-    width: 25%;
+    width: 30%;
+    float: right;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-block-end: 5px;
+}
+#lado3{
+    height: 200px;
+    width: 30%;
+    float: right;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-block-end: 5px;
+}
+#lado4{
+    height: 200px;
+    width: 30%;
+    float: right;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-block-end: 5px;
+}
+#lado5{
+    height: 200px;
+    width: 30%;
+    float: right;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-block-end: 5px;
+}
+#lado6{
+    height: 200px;
+    width: 30%;
     float: right;
     margin-left: 5px;
     margin-top: 10px;
